@@ -1,2 +1,2 @@
-# Belajar_Git_2
+# Hello_Guys
 Perintah dasar Git
